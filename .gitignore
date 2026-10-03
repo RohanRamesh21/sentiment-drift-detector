@@ -151,6 +151,10 @@ activemq-data/
 
 # Environments
 .env
+
+# project data outputs
+data/*
+!data/.gitkeep
 .envrc
 .venv
 env/
